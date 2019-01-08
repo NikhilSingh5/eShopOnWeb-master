@@ -1,36 +1,3 @@
-# eShopOnWeb
-
-Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. 
-
-This reference application is meant to support the free .PDF download ebook: [Architecting Modern Web Applications with ASP.NET Core and Azure](https://aka.ms/webappebook), updated to **ASP.NET Core 2.1**.
-
-You can also read the book in online pages at the .NET docs here: 
-https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/
-
-![image](https://user-images.githubusercontent.com/1712635/42467632-449688c2-8367-11e8-9323-81ab50a66006.png)
-
-The **eShopOnWeb** sample is related to the [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) sample application which, in that case, focuses on a microservices/containers-based application architecture. However, **eShopOnWeb** is much simpler in regards to its current functionality and focuses on traditional Web Application Development with a single deployment.
-
-The goal for this sample is to demonstrate some of the principles and patterns described in the [eBook](https://aka.ms/webappebook). It is not meant to be an eCommerce reference application, and as such it does not implement many features that would be obvious and/or essential to a real eCommerce application.
-
-> ### VERSIONS
-> #### The `master` branch is currently running ASP.NET Core 2.1.
-> #### Older versions are tagged.
-
-
-## Topics (eBook TOC)
-
-- Introduction
-- Characteristics of Modern Web Applications
-- Choosing Between Traditional Web Apps and SPAs
-- Architectural Principles
-- Common Web Application Architectures
-- Common Client Side Technologies
-- Developing ASP.NET Core MVC Apps
-- Working with Data in ASP.NET Core Apps
-- Testing ASP.NET Core MVC Apps
-- Development Process for Azure-Hosted ASP.NET Core Apps
-- Azure Hosting Recommendations for ASP.NET Core Web Apps
 
 ## Running the sample
 
